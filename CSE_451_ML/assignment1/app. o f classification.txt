@@ -1,0 +1,57 @@
+Classification algorithms in machine learning use input training data to predict the likelihood that subsequent data will fall into one of the predetermined categories. One of the most common uses of classification is filtering emails into “spam” or “non-spam.” 
+The study of classification in statistics is vast, and there are several types of classification algorithms you can use depending on the dataset you’re working with. Below are five of the most common algorithms in machine learning.
+There are perhaps four main types of classification tasks that you may encounter; they are:
+
+	Binary Classification
+	Multi-Class Classification
+	Multi-Label Classification
+	Imbalanced Classification
+	Let’s take a closer look at each in turn.
+
+Various types of classification algorithms:
+
+	Logistic Regression
+	Naive Bayes Classifier
+	K-Nearest Neighbors
+	Decision Tree
+	Random Forest
+	Support Vector Machines
+	Artificial Neural Networks
+	Support Vector Machine
+
+Applications of Classification are: speech recognition, handwriting recognition, biometric identification, document classification etc
+
+Classifiers can be:
+Binary classifiers: Classification with only 2 distinct classes or with 2 possible outcomes
+example: Male and Female
+example: classification of spam email and non spam email
+example: classification of author of book
+example: positive and negative sentiment
+
+Multi-Class classifiers: Classification with more than two distinct classes.
+example: classification of types of soil
+example: classification of types of crops
+example: classification of mood/feelings in songs/music
+
+4 Applications of Classification Algorithms
+	so now we understand a bit of the mathematics behind classification, but what can these machine learning algorithms do with real-world data?
+	
+	Sentiment Analysis
+	Email Spam Classification
+	Document Classification 
+	Image Classification
+
+Sentiment Analysis:
+	It can automatically read through thousands of pages in minutes or constantly monitor social media for posts about you.
+	Using advanced machine learning algorithms, sentiment analysis models can be trained to read for things like sarcasm and misused or misspelled words. Once properly trained, models produce consistently accurate results in a fraction of the time it would take humans.
+
+Email Spam Classification:
+	Email applications use the above algorithms to calculate the likelihood that an email is either not intended for the recipient or unwanted spam. Using text analysis classification techniques, spam emails are weeded out from the regular inbox: perhaps a recipient’s name is spelled incorrectly, or certain scamming keywords are used. 
+
+Document Classification:
+	Document classification differs from text classification, in that, entire documents, rather than just words or phrases, are classified. This is put into practice when using search engines online, cross-referencing topics in legal documents, and searching healthcare records by drug and diagnosis.
+
+Image Classification:
+	Image classification assigns previously trained categories to a given image. These could be the subject of the image, a numerical value, a theme, etc. Image classification can even use multi-label image classifiers, that work similarly to multi-label text classifiers, to tag an image of a stream, for example, into different labels, like “stream,” “water,” “outdoors,” etc.
+
+	Using supervised learning algorithms, you can tag images to train your model for appropriate categories. As with all machine learning models, the more you train it, the better it will work.

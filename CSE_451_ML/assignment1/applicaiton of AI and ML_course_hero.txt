@@ -1,0 +1,32 @@
+AI and Machine Learning are being applied in the retail and CPG sector on a large scale. Companies like Amazon and eBay are using ML-AI with the intention of making a large part of their business process automated. The aim is to make better decisions, improve marketing techniques, and reduce the involvement of humans in the business process.
+
+Step-by-step explanation
+Artificial intelligence is the result of continuous activation of the human intelligence process by machines, especially the computer system. 
+
+Machine Learning is the implementation of artificial intelligence that provides the system the ability to learn automatically from experience so that there is no need for direct programming. The goal is to predict customer behaviour.
+
+
+
+We could see its influence on e-commerce. Big companies like eBay and Amazon have already applied AI in their business and are benefitted from it.
+
+
+
+Application of AI and Machine Learning:
+
+
+
+The application of AI and machine learning focuses on providing customers with a very personalized offering and better experience with the interface.
+
+It makes it easy for the customer to search what they are really interested in and get surprising offers.
+
+
+
+Example of machine learning - Coca-cola used machine learning for its product development when they introduced their cherry sprite 2. They introduced soda fountain dispensers, which allowed people to add different flavours to their favourite coca-cola drink. The data was collected and machine learning was applied to know the most popular version of the flavor. The final result was that the cherry sprite covered a large segment of the market.
+
+
+
+The application of AI helps the marketer to decide the content for emails to be sent to the customers based on the data. Gradually, it helps in developing a feeling of recognition in the mind of the customer, which means the customer feels known and heard.
+
+Amazon uses AI to automatically analyze the searches made by users and identify potential offers that could be proposed to the users and then present them the same when they visit the website again.
+
+The ultimate aim of AI and Machine learning is to reduce human work, improve user experience, make decisions quickly, and provide an upper hand in business.
